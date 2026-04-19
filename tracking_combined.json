@@ -13,6 +13,13 @@
       "short": "Club Class",
       "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/club/task-4-on-2026-04-18",
       "colour": "#0074D9"
+    },
+    {
+      "id": "fcc2026-mix",
+      "name": "FCC2026",
+      "short": "Mix Class",
+      "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/kombi-b/task-4-on-2026-04-18",
+      "colour": "#0074D9"
     }
   ],
   "gliders": "https://github.com/nobody460/fccgliding/raw/refs/heads/main/flarm_mixed.json"
