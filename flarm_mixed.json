@@ -1,0 +1,479 @@
+[
+    {
+        "name": "Kovalcik & Manka",
+        "cn": "2P",
+        "glider": "Arcus M 850 kg",
+        "comp": "Mixed",
+        "flarm": [
+            "D00BC8"
+        ]
+    },
+    {
+        "name": "Botond Szabadfi",
+        "cn": "IV",
+        "glider": "ASG 32 Mi 800kg",
+        "comp": "Mixed",
+        "flarm": [
+            "D03273"
+        ]
+    },
+    {
+        "name": "Oldrich Bartonik",
+        "cn": "D3",
+        "glider": "KKB 18 Diana 3 FES",
+        "comp": "Mixed",
+        "flarm": [
+            "DDF09B"
+        ]
+    },
+    {
+        "name": "Dariusz Czech",
+        "cn": "DC",
+        "glider": "ASG 29e 18m",
+        "comp": "Mixed",
+        "flarm": [
+            "DF11CC"
+        ]
+    },
+    {
+        "name": "Tomasz Dul",
+        "cn": "TO",
+        "glider": "JS3 JET 18m",
+        "comp": "Mixed",
+        "flarm": [
+            "D00725"
+        ]
+    },
+    {
+        "name": "Thomas Hynek",
+        "cn": "CCI",
+        "glider": "Ventus 2cxM 600kg",
+        "comp": "Mixed",
+        "flarm": [
+            "DDEB3D"
+        ]
+    },
+    {
+        "name": "Jerzey Kolasinski",
+        "cn": "EMI",
+        "glider": "ASG29E",
+        "comp": "Mixed",
+        "flarm": [
+            "D02D23"
+        ]
+    },
+    {
+        "name": "Wojciech Kos",
+        "cn": "ZAR",
+        "glider": "Arcus T",
+        "comp": "Mixed",
+        "flarm": [
+            "DDEB86"
+        ]
+    },
+    {
+        "name": "Marek Sawczuk",
+        "cn": "MS",
+        "glider": "ASG29E",
+        "comp": "Mixed",
+        "flarm": [
+            "D020F1"
+        ]
+    },
+    {
+        "name": "René Schönmann",
+        "cn": "LI",
+        "glider": "JS1C 18m EVO",
+        "comp": "Mixed",
+        "flarm": [
+            "0090C4"
+        ]
+    },
+    {
+        "name": "Tomasz Bajkowski",
+        "cn": "WD",
+        "glider": "Ventus 2ct 18m 525kg",
+        "comp": "Mixed",
+        "flarm": [
+            "DDFD05"
+        ]
+    },
+    {
+        "name": "Zdislaw Bednarczuk",
+        "cn": "ZB",
+        "glider": "JS3",
+        "comp": "Mixed",
+        "flarm": [
+            "D0127B"
+        ]
+    },
+    {
+        "name": "Joanna Biedermann",
+        "cn": "FI",
+        "glider": "ASG 29 E 18m",
+        "comp": "Mixed",
+        "flarm": [
+            "DDF09B"
+        ]
+    },
+    {
+        "name": "Lubomir Doupal",
+        "cn": "LD",
+        "glider": "Arcus M",
+        "comp": "Mixed",
+        "flarm": [
+            "49B002"
+        ]
+    },
+    {
+        "name": "Arkadiusz Downar",
+        "cn": "M",
+        "glider": "Diana 4 ER",
+        "comp": "Mixed",
+        "flarm": [
+            "48F981"
+        ]
+    },
+    {
+        "name": "Florkowski & Wujczak",
+        "cn": "NX",
+        "glider": "EB 28",
+        "comp": "Mixed",
+        "flarm": [
+            "3ED229"
+        ]
+    },
+    {
+        "name": "Gal & Hamar",
+        "cn": "HBI",
+        "glider": "EB29D 28,3m",
+        "comp": "Mixed",
+        "flarm": [
+            "DDEE84"
+        ]
+    },
+    {
+        "name": "Aneta Chabora",
+        "cn": "PL",
+        "glider": "ASG 29",
+        "comp": "Mixed",
+        "flarm": [
+            "DDEEA2"
+        ]
+    },
+    {
+        "name": "Lubomir Jakubcak",
+        "cn": "CAR",
+        "glider": "Arcus M 800kg",
+        "comp": "Mixed",
+        "flarm": [
+            "505C4B"
+        ]
+    },
+    {
+        "name": "Piotr Jarysz",
+        "cn": "WS",
+        "glider": "ASG29e",
+        "comp": "Mixed",
+        "flarm": [
+            "D013F3"
+        ]
+    },
+    {
+        "name": "Nuutti Kankare",
+        "cn": "3F",
+        "glider": "Ventus 3F",
+        "comp": "Mixed",
+        "flarm": [
+            "D01CE6"
+        ]
+    },
+    {
+        "name": "Sebastian Kawa",
+        "cn": "P",
+        "glider": "JS1 EVO 18m",
+        "comp": "Mixed",
+        "flarm": [
+            "DDECC4"
+        ]
+    },
+    {
+        "name": "Jan Keher",
+        "cn": "EF",
+        "glider": "Discus 2cT 18m",
+        "comp": "Mixed",
+        "flarm": [
+            "D021EE"
+        ]
+    },
+    {
+        "name": "Lukasz Kornacki",
+        "cn": "HB",
+        "glider": "ASG-29Es",
+        "comp": "Mixed",
+        "flarm": [
+            "DDEE84"
+        ]
+    },
+    {
+        "name": "Kornel Negro",
+        "cn": "GPS",
+        "glider": "AS33Es",
+        "comp": "Mixed",
+        "flarm": [
+            "3E5DC5"
+        ]
+    },
+    {
+        "name": "Pavel Trojan",
+        "cn": "12",
+        "glider": "Arcus M",
+        "comp": "Mixed",
+        "flarm": [
+            "3EDDD7"
+        ]
+    },
+    {
+        "name": "Boris Žorž",
+        "cn": "BL",
+        "glider": "JS3",
+        "comp": "Mixed",
+        "flarm": [
+            "3EDE19"
+        ]
+    },
+    {
+        "name": "Lukas Benedikt",
+        "cn": "LB",
+        "glider": "Ventus 3F",
+        "comp": "Mixed",
+        "flarm": [
+            "3E722F"
+        ]
+    },
+    {
+        "name": "Stanislaw Biela",
+        "cn": "S",
+        "glider": "Ventus 3 ts",
+        "comp": "Mixed",
+        "flarm": [
+            "48D1C3"
+        ]
+    },
+    {
+        "name": "Centka & Chudoment",
+        "cn": "L",
+        "glider": "ASH25Mi 25m",
+        "comp": "Mixed",
+        "flarm": [
+            "D02232"
+        ]
+    },
+    {
+        "name": "Maros Divok",
+        "cn": "D",
+        "glider": "AS33Es",
+        "comp": "Mixed",
+        "flarm": [
+            "505EA6"
+        ]
+    },
+    {
+        "name": "Robin Förster",
+        "cn": "RF",
+        "glider": "Twinshark HPH 850kg",
+        "comp": "Mixed",
+        "flarm": [
+            "3E7DA0"
+        ]
+    },
+    {
+        "name": "Bernd Goretzki",
+        "cn": "C8",
+        "glider": "Ventus 3M",
+        "comp": "Mixed",
+        "flarm": [
+            "3E7770"
+        ]
+    },
+    {
+        "name": "Alexandru-Doru Hagiu",
+        "cn": "AD",
+        "glider": "Ventus 2cM 525kg",
+        "comp": "Mixed",
+        "flarm": [
+            "3E6E6F"
+        ]
+    },
+    {
+        "name": "Christian Hynek",
+        "cn": "DD",
+        "glider": "EB 29 DR",
+        "comp": "Mixed",
+        "flarm": [
+            "3E76A9"
+        ]
+    },
+    {
+        "name": "Kessler & Jurca",
+        "cn": "AK",
+        "glider": "ASG32Mi 800kg",
+        "comp": "Mixed",
+        "flarm": [
+            "D001C0"
+        ]
+    },
+    {
+        "name": "Krejcirik & Valecko",
+        "cn": "11",
+        "glider": "Twin Shark 850kg",
+        "comp": "Mixed",
+        "flarm": [
+            "3E7906"
+        ]
+    },
+    {
+        "name": "Kromka & Kollar",
+        "cn": "TA3",
+        "glider": "Arcus M",
+        "comp": "Mixed",
+        "flarm": [
+            "DDF16D"
+        ]
+    },
+    {
+        "name": "Lesinger & Grula",
+        "cn": "DX",
+        "glider": "ASG31Mi 800",
+        "comp": "Mixed",
+        "flarm": [
+            "D02077"
+        ]
+    },
+    {
+        "name": "Majewski & Krejcirik",
+        "cn": "SPG",
+        "glider": "Arcus T",
+        "comp": "Mixed",
+        "flarm": [
+            "DF12CF"
+        ]
+    },
+    {
+        "name": "Zsolt Osi",
+        "cn": "BY",
+        "glider": "ASW22 BLE 810kg",
+        "comp": "Mixed",
+        "flarm": [
+            "D00ED4"
+        ]
+    },
+    {
+        "name": "Petr Panek",
+        "cn": "IGC",
+        "glider": "JS1b JET",
+        "comp": "Mixed",
+        "flarm": [
+            "D021C9"
+        ]
+    },
+    {
+        "name": "Timo Pauls",
+        "cn": "FT",
+        "glider": "Ventus 2ct 18m 525kg",
+        "comp": "Mixed",
+        "flarm": [
+            "3E7C35"
+        ]
+    },
+    {
+        "name": "Justus Sander",
+        "cn": "IYB",
+        "glider": "Ventus 3 ts",
+        "comp": "Mixed",
+        "flarm": [
+            "3A1FFF"
+        ]
+    },
+    {
+        "name": "Andrzej Smielkiewicz",
+        "cn": "A2",
+        "glider": "AS33Me",
+        "comp": "Mixed",
+        "flarm": [
+            "3E7E9A"
+        ]
+    },
+    {
+        "name": "Karol Staryszak",
+        "cn": "MB",
+        "glider": "AS33Es",
+        "comp": "Mixed",
+        "flarm": [
+            "3E7770"
+        ]
+    },
+    {
+        "name": "Arkadiusz Stefanczyk",
+        "cn": "ST",
+        "glider": "Ventus 3M",
+        "comp": "Mixed",
+        "flarm": [
+            "D028EE"
+        ]
+    },
+    {
+        "name": "Andre Weidlich",
+        "cn": "TE",
+        "glider": "Ventus 3M",
+        "comp": "Mixed",
+        "flarm": [
+            "3ED00E"
+        ]
+    },
+    {
+        "name": "Jiri Kusbach",
+        "cn": "ZF",
+        "glider": "JS1 CJ",
+        "comp": "Mixed",
+        "flarm": [
+            "D02175"
+        ]
+    },
+    {
+        "name": "Leszek Staryszak",
+        "cn": "BG",
+        "glider": "ASG 29E",
+        "comp": "Mixed",
+        "flarm": [
+            "3E7678"
+        ]
+    },
+    {
+        "name": "Gintas Zube",
+        "cn": "AR",
+        "glider": "ASG29 E",
+        "comp": "Mixed",
+        "flarm": [
+            "D01F93"
+        ]
+    },
+    {
+        "name": "Dariusz Pietraszkiewicz",
+        "cn": "RB",
+        "glider": "ASG 29Es",
+        "comp": "Mixed",
+        "flarm": [
+            "DF0B90"
+        ]
+    },
+    {
+        "name": "Janos Sindely",
+        "cn": "RZ",
+        "glider": "JS1 CTJ - 21",
+        "comp": "Mixed",
+        "flarm": [
+            "D028DA"
+        ]
+    }
+]
