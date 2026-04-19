@@ -4,21 +4,21 @@
       "id": "fcc2026-15m",
       "name": "FCC2026",
       "short": "15m Class",
-      "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/kombi-a/task-4-on-2026-04-18",
+      "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/kombi-a/task-4-on-2026-04-19",
       "colour": "#BF211E"
     },
     {
       "id": "fcc2026-mix",
       "name": "FCC2026",
       "short": "Mix Class",
-      "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/kombi-b/task-4-on-2026-04-18",
+      "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/kombi-b/task-4-on-2026-04-19",
       "colour": "#0074D9"
     },
     {
       "id": "fcc2026-club",
       "name": "FCC2026",
       "short": "Club Class",
-      "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/club/task-4-on-2026-04-18",
+      "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/club/task-5-on-2026-04-19",
       "colour": "#0074D0"
     }
   ],
