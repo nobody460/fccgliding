@@ -1,0 +1,12 @@
+{
+  "comps": [
+    {
+      "id": "fcc2026-club",
+      "name": "FCC2026",
+      "short": "Club Class",
+      "task": "https://www.soaringspot.com/en_gb/fcc2026/tasks/club/task-4-on-2026-04-18",
+      "colour": "#0074D9"
+    }
+  ],
+  "gliders": "https://github.com/nobody460/JEGC2025/raw/refs/heads/main/pilots_club.json"
+}
